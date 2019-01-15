@@ -1,0 +1,98 @@
+{ "data":[
+  {
+    "id":"3", 
+    "name" : "Borin",
+    "history" :[
+      {"id":"1", 
+        "date":"21/11/2018", 
+      "tyle":"Jasmine",
+      "quanity" : 150,
+      "price" : 2000,
+      "total" : 300000,
+      "payment": 0,
+      "remain": 300000
+      },
+      {"id":"2", 
+        "date":"21/11/2018", 
+      "tyle":"Soy Bean",
+      "quanity" : 4,
+      "price" : 4000,
+      "total" : 16000,
+      "payment": 0,
+      "remain": 16000
+      },
+      {"id":"3", 
+        "date":"22/11/2018", 
+      "tyle":"Sticky Rice",
+      "quanity" : 10,
+      "price" : 3200,
+      "total" : 32000,
+      "payment": 0,
+      "remain": 32000
+      },
+      {"id":"4", 
+        "date":"22/11/2018", 
+      "tyle":"Neang Minh",
+      "quanity" : 50,
+      "price" : 1600,
+      "total" : 80000,
+      "payment": 0,
+      "remain": 80000
+      }
+      ]
+  },
+    {
+    "id":"2", "name" : "Thida",
+    "history" :
+      [{"id":"1",
+        "date":"31/12/2018", 
+      "tyle":"Justmine",
+      "quanity" : 150,
+      "price" : 2000,
+      "total" : 3000000,
+      "payment": 0,
+      "remain": 3000000
+      }]
+  },
+    {
+    "id":"1", "name" : "Sovan",
+    "history" :
+    [{"id":"1",
+    "date":"31/12/2018", 
+      "tyle":"Justmine",
+      "quanity" : 150,
+      "price" : 2000,
+      "total" : 3000000,
+      "payment": 0,
+      "remain": 3000000
+      }]
+  },
+  {
+    "id":"4", "name" : "Lyda",
+    "history" :
+    [{"id":"1",
+      "date":"31/12/2018", 
+      "tyle":"Justmine",
+      "quanity" : 150,
+      "price" : 2000,
+      "total" : 3000000,
+      "payment": 0,
+      "remain": 3000000
+      }]
+  },
+  {
+    "id":"5", "name" : "Borin Nak",
+    "history" :
+    [{"id":"1",
+      "date":"31/12/2018", 
+      "tyle":"Justmine",
+      "quanity" : 150,
+      "price" : 2000,
+      "total" : 3000000,
+      "payment": 0,
+      "remain": 3000000
+      }]
+  }
+  ]
+  
+}
