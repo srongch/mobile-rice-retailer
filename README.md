@@ -1,3 +1,5 @@
+*English is my second language, there will be mistakes and typos in the written text below.*
+
 ### Rice Retailer Prototype.
 
 >  My first React Native project for course work. 
