@@ -1,16 +1,16 @@
 ### Rice Retailer Prototype.
 
-My first React Native project for course work. 
+>  My first React Native project for course work. 
+> 
+> This project is all about using UCD (User Centered Design) process to
+> convert manual business process into mobile based solution. 
+> 
+> **Case Study : Local Retailer business.** (Educational Purpose)
 
 ![prototype](https://github.com/sronglongchhem/mobile-rice-retailer/blob/master/Documents/assets/README.md.png)
 
 ![prototype](https://github.com/sronglongchhem/RiceRetailer/blob/master/Documents/assets/ezgif.com-video-to-gif.gif)
 
-
-> This project is all about using UCD (User Centered Design) process to
-> convert manual business process into mobile based solution. 
-> 
-> **Case Study : Local Retailer business.** (Educational Purpose)
 
 # 1. Task Analysis
 
